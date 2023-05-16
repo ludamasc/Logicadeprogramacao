@@ -1,19 +1,19 @@
 Algoritmo "circulo"
-// Disciplina   : [Linguagem e Lógica de Programação]
+// Disciplina   : [Linguagem e LÃ³gica de ProgramaÃ§Ã£o]
 // Professor   : Antonio Carlos Nicolodi 
-// Descrição   : Aqui você descreve o que o programa faz! (função)
+// DescriÃ§Ã£o   : Mostra-se o valor da Ã¡rea do cÃ­rculo.
 // Autor(a)    : Nome do(a) aluno(a)
 // Data atual  : 17/03/2023
 Var
-// Seção de Declarações das variáveis 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis 
 raio:real
 area:real
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
+// SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc... 
 
  escreva: ("digite o raio do circulo:")
 leia:(raio)
 area<-pi*raio*raio
-escreva: ("o valor da area é:",area)
+escreva: ("o valor da area Ã©:",area)
 Fimalgoritmo
