@@ -1,18 +1,18 @@
 Algoritmo "idade_dias"
-// Disciplina   : [Linguagem e Lógica de Programação]
+// Disciplina   : [Linguagem e LÃ³gica de ProgramaÃ§Ã£o]
 // Professor   : Antonio Carlos Nicolodi 
-// Descrição   : Aqui você descreve o que o programa faz! (função)
+// DescriÃ§Ã£o   : Mostra-se a quantidade de dias todas de uma pessoa.
 // Autor(a)    : Nome do(a) aluno(a)
 // Data atual  : 17/03/2023
 Var
-// Seção de Declarações das variáveis 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis 
   idadeanos, idademeses, idadedias, idadestotais: inteiro
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
+// SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc... 
   escreva("escreva sua idade expressa em anos:")
    leia(idadeanos)
-  escreva("escreva a quantidade de meses que passou do seu último aniversario:")
+  escreva("escreva a quantidade de meses que passou do seu Ãºltimo aniversario:")
    leia(idademeses)
   escreva("escreva sua idade em dias conforme o mes atual:")
    leia(idadedias)
